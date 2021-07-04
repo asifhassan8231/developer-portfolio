@@ -1,6 +1,6 @@
 body{
     font-family: 'Cinzel', serif;
-    background-color:whitesmoke;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -32,5 +32,11 @@ section{
 
 .half-width figcaption{
     text-align: center;
+    background-image: linear-gradient(whitesmoke,silver);
+   color:grey;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
 }
 
